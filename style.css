@@ -523,7 +523,7 @@
             margin-bottom: 1.5rem;
             transition: var(--transition);
             box-shadow: 0 5px 20px rgba(245, 87, 108, 0.3);
-            background-image: url('rasmlar/founder_circular.png');
+            background-image: url('founder_circular.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -891,5 +891,6 @@
     .menu-toggle.is-active .bar:nth-child(1) { transform: translateY(8px) rotate(45deg); }
     .menu-toggle.is-active .bar:nth-child(3) { transform: translateY(-8px) rotate(-45deg); }
 }
+
 
  
